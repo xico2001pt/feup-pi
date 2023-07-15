@@ -16,7 +16,7 @@ Este repositório contém:
 
 ## Classificações
 
-Final = 0.50 * Projeto 1 + 0.35 * Relatório + 0.15 * Apresentação
+Final = 0.50 * Projeto + 0.35 * Relatório + 0.15 * Apresentação
 
 | Projeto | Relatório | Apresentação | Final
 |---|---|---|---
